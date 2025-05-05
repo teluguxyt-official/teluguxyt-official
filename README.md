@@ -43,16 +43,6 @@ Welcome to **Telugu XYT** – a platform dedicated to making smart earnings easi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeluguXYT&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeluguXYT&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🧠 Skills & Tools
 
 <p align="center">

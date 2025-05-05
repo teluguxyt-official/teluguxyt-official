@@ -8,11 +8,17 @@
   <a href="https://github.com/TeluguXYT">
     <img src="https://komarev.com/ghpvc/?username=TeluguXYT&style=flat-square&color=blue" alt="Profile Views" />
   </a>
-  <a href="https://t.me/YourGroupLinkHere">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?style=flat-square&logo=telegram" alt="Telegram" />
+  <a href="https://t.me/+mGpNyd66RbMxMzc1">
+    <img src="https://img.shields.io/badge/Telegram-Main%20Channel-blue?style=flat-square&logo=telegram" alt="Telegram Main" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-Coming%20Soon-red?style=flat-square&logo=youtube" alt="YouTube" />
+  <a href="https://t.me/+6DsJIYz8_jg3M2Nl">
+    <img src="https://img.shields.io/badge/Telegram-Prediction%20Channel-purple?style=flat-square&logo=telegram" alt="Telegram Prediction" />
+  </a>
+  <a href="https://youtube.com/@earnmoney-inda?si=-k2tQ7PdwcM_npTp">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/teluguxyt/?igsh=MXAwdHQ4N3V6YmcyZA%3D%3D#">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram" alt="Instagram" />
   </a>
 </p>
 
@@ -20,37 +26,36 @@
 
 ## 🚀 About Me
 
-Welcome to **Telugu XYT** – a platform dedicated to making smart earnings easier through **Color Trading**, **Automated Predictions**, and practical tools.
+Welcome to **Telugu XYT** — where we turn **trading tricks** into smart earnings with **daily predictions, tools, and strategies** designed for everyone, especially the Telugu community.
 
-> I build projects and content for people who want to earn smartly using technology — especially in Telugu.
+> We believe in tech-powered income and share working tricks, bots, and tutorials to support your journey.
 
 ---
 
 ## 📦 Projects In Progress
 
-- 🔮 **Live Color Predictor (Web Tool)**
-- 📲 **Telegram Bot for Color Alerts**
-- 📊 **Color Trading Dashboard with Earnings Tracker**
-- 📘 **Tips, Hacks, and Tutorials – Telugu & English**
+- 🔮 **Live Color Predictor Web Tool**
+- 🤖 **Telegram Bot for Real-Time Signals**
+- 📊 **Color Trading Dashboard (with Earnings Tracker)**
+- 📘 **Free Guides on Tricks, Withdrawals, and Tools**
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
-- 📢 **Telegram Group**: [Join Now](https://t.me/YourGroupLinkHere)
-- 📺 **YouTube Channel**: Coming Soon
-- 🌍 **Website**: Coming Soon
+- 📢 **Main Telegram Channel**: [Join Now](https://t.me/+mGpNyd66RbMxMzc1)
+- 📊 **Prediction Channel**: [Live Updates](https://t.me/+6DsJIYz8_jg3M2Nl)
+- 📺 **YouTube**: [@earnmoney-inda](https://youtube.com/@earnmoney-inda?si=-k2tQ7PdwcM_npTp)
+- 📸 **Instagram**: [@teluguxyt](https://www.instagram.com/teluguxyt/?igsh=MXAwdHQ4N3V6YmcyZA%3D%3D)
 
 ---
 
-## 🧠 Skills & Tools
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TeluguXYT&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeluguXYT&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---

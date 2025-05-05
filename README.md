@@ -53,9 +53,9 @@ Welcome to **Telugu XYT** — where we turn **trading tricks** into smart earnin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeluguXYT&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=teluguxyt-official&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeluguXYT&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teluguxyt-official&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
